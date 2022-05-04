@@ -1,0 +1,11 @@
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class7-IMC\bin\Debug\Class7-IMC.exe.config
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class7-IMC\bin\Debug\Class7-IMC.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class7-IMC\bin\Debug\Class7-IMC.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class7-IMC\obj\Debug\Class7-IMC.csproj.AssemblyReference.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class7-IMC\obj\Debug\Class7-IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class7-IMC\obj\Debug\Class7_IMC.Form1.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class7-IMC\obj\Debug\Class7_IMC.Properties.Resources.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class7-IMC\obj\Debug\Class7-IMC.csproj.GenerateResource.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class7-IMC\obj\Debug\Class7-IMC.csproj.CoreCompileInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class7-IMC\obj\Debug\Class7-IMC.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class7-IMC\obj\Debug\Class7-IMC.pdb
